@@ -1,2 +1,32 @@
-# premiere_stmg
-premiere stmg
+# Première STMG - Lycée Jean Monnet - Montpellier - 2021/2022
+
+Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
+---------------------------------------------------------------------------------------------------------------------------
+
+Voici qq fichiers pour des éléments de cours de la classe de première STMG :
+
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="cours"></a> cours math première STMG
+* ### [0 - pourcentage]()
+* ### [1 - fonctions]()
+
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="exercice"></a> exercice à faire
+* ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
+* ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+## <a e3c="E3C"></a> problèmes bacs corrigés (E3C)
+* ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
+* ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+## Progression , matériels ... en première STMG au Lycée Jean Monnet - 2021/2022
+* ### [progression 2021-2022](https://github.com/Math13Net/seconde/blob/master/progression_seconde)
+* ### [programme officiel](https://eduscol.education.fr/ecogest/im_ecogest/9-stmg-maths.pdf)
+
+## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
