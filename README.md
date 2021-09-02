@@ -12,14 +12,19 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
-* ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
-* ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
+* ### Chapitre 0 : les pourcentages
+* #### [ex proportion]()
+* #### [ex taux evolution et indice]()
+* #### [ex complémentaitres]()
 
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a e3c="E3C"></a> problèmes bacs corrigés (E3C)
-* ### [les nombres 1/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_fractions.pdf)
-* ### [les nombres 2/2](https://www.lyceedadultes.fr/sitepedagogique/documents/math/math2S/01_les_nombres/schema_ens_nbres.pdf)
+* ### Chapitre 0 : les pourcentages
+* #### [sujet 1]()
+* #### [corrigé 1]()
+* #### [sujet 2]()
+* #### [corrigé 2]()
 
 
 
