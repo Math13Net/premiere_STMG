@@ -5,6 +5,17 @@ Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-p
 
 Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
+## 🌈 [cours](#cours)
+
+## 🔥 [fiche d'exercices](#exercice)
+
+## 🚀 [problèmes bacs corrigés](#E3C)
+
+## 👋 [devoir](#devoir)
+
+## 🔐 WARNING : document under LICENCE CC ![Licence CC](https://github.com/Math13Net/NSI-premiere/blob/master/licence%20CC.png)
+
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="cours"></a> cours math première STMG
 * ### [0 - pourcentage](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre0_1B.pdf)
@@ -19,14 +30,16 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 
 -----------------------------------------------------------------------------------------------------------------------------
-## <a e3c="E3C"></a> problèmes bacs corrigés (E3C)
+## <a name="E3C"></a> problèmes bacs corrigés (E3C)
 * ### Chapitre 0 : les pourcentages
 * #### [sujet 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1.pdf)
 * #### [corrigé 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1C.pdf)
 * #### [sujet 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2.pdf)
 * #### [corrigé 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2C.pdf)
 
-
+-----------------------------------------------------------------------------------------------------------------------------
+## <a name="devoir"></a> devoirs
+* ### [devoir 1]()
 
 
 -----------------------------------------------------------------------------------------------------------------------------
