@@ -20,6 +20,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 ## <a name="cours"></a> cours math première STMG
 * ### [0 - pourcentage](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre0_1B.pdf)
 * ### [1 - fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre1_fctB.pdf)
+* ### [2 - tableaux croisés - probabilité contionnelle](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre2_proba1B.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
@@ -30,6 +31,10 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### Chapitre 1 : fonctions
 * #### [ex fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre1.pdf)
 * #### [ex complémentaitres](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre1.pdf)
+* ### Chapitre 2 - tableaux croisés - probabilité contionnelle
+* #### [ex tableaux](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2.pdf)
+* #### [ex probabilités](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2bis.pdf)
+* #### [ex tableaux probabilités supplémentaires](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +49,11 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites1C.pdf)
 * #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2.pdf)
 * #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2C.pdf)
-
+* ### Chapitre 2 - tableaux croisés - probabilité contionnelle
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1.pdf)
+* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2.pdf)
+* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2C.pdf)
 
 
 -----------------------------------------------------------------------------------------------------------------------------
@@ -54,7 +63,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en première STMG au Lycée Jean Monnet - 2021/2022
-* ### [progression 2021-2022](https://github.com/Math13Net/seconde/blob/master/progression_seconde)
+* ### [progression 2021-2022](https://www.mathgm.fr/index.php/1-stmg/cours-et-exercices)
 * ### [programme officiel](https://eduscol.education.fr/ecogest/im_ecogest/9-stmg-maths.pdf)
 
-## [bien démarrer avec python](https://www.frederic-junier.org/PythonSeconde/Python_Seconde_Parc/accueil_python_2nde.html)
+## [bien démarrer avec python](https://xn--petitfut-i1a.com/download/cours-initiation-python/)
