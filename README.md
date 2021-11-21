@@ -20,7 +20,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 ## <a name="cours"></a> cours math première STMG
 * ### [0 - pourcentage](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre0_1B.pdf)
 * ### [1 - fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre1_fctB.pdf)
-* ### [2 - tableaux croisés - probabilité contionnelle](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre2_proba1B.pdf)
+* ### [2 - tableau croisé - probabilité contionnelle](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre2_proba1B.pdf)
 * ### [3 - suite](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre3_suitesB.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
