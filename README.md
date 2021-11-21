@@ -21,6 +21,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [0 - pourcentage](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre0_1B.pdf)
 * ### [1 - fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre1_fctB.pdf)
 * ### [2 - tableaux croisés - probabilité contionnelle](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre2_proba1B.pdf)
+* ### [3 - suite](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre3_suitesB.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
@@ -35,7 +36,9 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * #### [ex tableaux](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2.pdf)
 * #### [ex probabilités](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2bis.pdf)
 * #### [ex tableaux probabilités supplémentaires](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
-
+* ### Chapitre 3 - suite
+* #### [suite 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre3.pdf)
+* #### [suite 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre3.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="E3C"></a> problèmes bacs corrigés (E3C)
@@ -54,8 +57,16 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1C.pdf)
 * #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2.pdf)
 * #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2C.pdf)
-
-
+* ### Chapitre 3 - suite
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1.pdf)
+* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2.pdf)
+* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2C.pdf) 
+* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3.pdf)
+* #### [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3C.pdf) 
+* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4.pdf)
+* #### [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4C.pdf)
+ 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
 * ### [devoir 1](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
