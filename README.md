@@ -32,7 +32,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### Chapitre 1 : fonctions
 * #### [ex fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre1.pdf)
 * #### [ex complémentaitres](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre1.pdf)
-* ### Chapitre 2 - tableaux croisés - probabilité contionnelle
+* ### Chapitre 2 - tableau croisé - probabilité contionnelle
 * #### [ex tableaux](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2.pdf)
 * #### [ex probabilités](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2bis.pdf)
 * #### [ex tableaux probabilités supplémentaires](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
