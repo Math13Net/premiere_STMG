@@ -69,8 +69,9 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
  
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
-* ### [devoir 1](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
-
+* ### [devoir 1]()
+* ### [devoir 2]()
+* ### [devoir 3](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en première STMG au Lycée Jean Monnet - 2021/2022
