@@ -24,6 +24,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [3 - suite](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre3_suitesB.pdf)
 * ### [4 - polynôme du 2nd degré](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre4_second_degreB.pdf)
 * ### [5 - polynôme du 3ème degré](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre5_troisieme_degreB.pdf)
+* ### [6 - dérivation](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre6_derivationB.pdf)
+* ### [7 - variable aléatoire](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre7_proba2B.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
@@ -48,6 +50,13 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### Chapitre 5 - polynôme 3ème degré
 * #### [polynôme 3ème degré 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre5.pdf)
 * #### [polynôme 3ème degré 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre5.pdf)
+* ### Chapitre 6 - dérivation
+* #### [dérivation 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre6.pdf)
+* #### [dérivation 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre6_bis.pdf)
+* #### [dérivation 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre6.pdf)
+* ### Chapitre 7 - variable aléatoire
+* #### [polynôme 3ème degré 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre7.pdf)
+* #### [polynôme 3ème degré 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre7.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="E3C"></a> problèmes bacs corrigés (E3C)
