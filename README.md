@@ -82,7 +82,13 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### Chapitre 5 - polynôme 3ème degré
 * #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1C.pdf)
 * #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1C.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre2C.pdf) 
- 
+ * ### Chapitre 6 - dérivation
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation2.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation2C.pdf) 
+* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation3.pdf) - [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation3C.pdf) 
+* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation4.pdf) - [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/derivation4C.pdf)
+
+
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
 * ### [devoir 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2.pdf)
