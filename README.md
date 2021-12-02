@@ -48,38 +48,24 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="E3C"></a> problèmes bacs corrigés (E3C)
 * ### Chapitre 0 : les pourcentages
-* #### [sujet 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1.pdf)
-* #### [corrigé 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1C.pdf)
-* #### [sujet 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2.pdf)
-* #### [corrigé 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2C.pdf)
+* #### [sujet 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1.pdf) - [corrigé 1](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages1C.pdf)
+* #### [sujet 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2.pdf) - [corrigé 2](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/pourcentages2C.pdf)
 * ### Chapitre 1 : fonctions
-* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites1.pdf)
-* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites1C.pdf)
-* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2.pdf)
-* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2C.pdf)
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2C.pdf)
 * ### Chapitre 2 - tableaux croisés - probabilité contionnelle
-* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1.pdf)
-* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1C.pdf)
-* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2.pdf)
-* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2C.pdf)
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/probailite1_2C.pdf)
 * ### Chapitre 3 - suite
-* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1.pdf)
-* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1C.pdf)
-* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2.pdf)
-* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2C.pdf) 
-* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3.pdf)
-* #### [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3C.pdf) 
-* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4.pdf)
-* #### [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4C.pdf)
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites2C.pdf) 
+* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3.pdf) - [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites3C.pdf) 
+* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4.pdf) - [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/suites4C.pdf)
 * ### Chapitre 4 - polynôme du second degré
-* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre1.pdf)
-* #### [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre1C.pdf)
-* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre2.pdf)
-* #### [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre2C.pdf) 
-* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3.pdf)
-* #### [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3C.pdf) 
-* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4.pdf)
-* #### [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4C.pdf)
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre2.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre2C.pdf) 
+* #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3.pdf) - [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3C.pdf) 
+* #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4.pdf) - [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4C.pdf)
  
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
