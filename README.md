@@ -23,7 +23,7 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [2 - tableau croisé - probabilité contionnelle](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre2_proba1B.pdf)
 * ### [3 - suite](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre3_suitesB.pdf)
 * ### [4 - polynôme du 2nd degré](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre4_second_degreB.pdf)
-* ### [5 - polynôme du 3ème degré](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre4_second_degreB.pdf)
+* ### [5 - polynôme du 3ème degré](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/chapitre5_troisieme_degreB.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="exercice"></a> exercice à faire
@@ -42,9 +42,12 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * #### [suite 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre3.pdf)
 * #### [suite 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre3.pdf)
 * #### [ex tableaux probabilité supplémentaire](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
-* ### Chapitre 4 - polynôme du second degré
+* ### Chapitre 4 - polynôme 2nd degré
 * #### [polynôme 2nd degré 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre4.pdf)
 * #### [polynôme 2nd degré 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre4.pdf)
+* ### Chapitre 5 - polynôme 3ème degré
+* #### [polynôme 3ème degré 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre5.pdf)
+* #### [polynôme 3ème degré 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre5.pdf)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="E3C"></a> problèmes bacs corrigés (E3C)
@@ -68,8 +71,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * #### [sujet 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3.pdf) - [corrigé 3](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre3C.pdf) 
 * #### [sujet 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4.pdf) - [corrigé 4](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/second_degre4C.pdf)
 * ### Chapitre 5 - polynôme 3ème degré
-* #### [sujet 1]() - [corrigé 1]()
-* #### [sujet 2]() - [corrigé 2]() 
+* #### [sujet 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1.pdf) - [corrigé 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1C.pdf)
+* #### [sujet 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre1C.pdf) - [corrigé 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/troisiemedegre2C.pdf) 
  
 -----------------------------------------------------------------------------------------------------------------------------
 ## <a name="devoir"></a> devoirs
