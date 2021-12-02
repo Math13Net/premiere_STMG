@@ -1,4 +1,4 @@
-# Première STMG - Lycée Jean Monnet - Montpellier - 2021/2022
+# :santa: Première STMG - Lycée Jean Monnet - Montpellier - 2021/2022
 
 Magic Problem Solver Algorithm ;)) https://proftomcrick.com/2011/04/26/feynman-problem-solving-algorithm/
 ---------------------------------------------------------------------------------------------------------------------------
