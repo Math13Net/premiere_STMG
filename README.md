@@ -7,9 +7,9 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 
 ## 🌈 [cours](#cours)
 
-## 🔥 [fiche d'exercices](#exercice)
+## 🔥 [fiche d'exercice](#exercice)
 
-## 🚀 [problèmes bacs corrigés](#E3C)
+## 🚀 [problème bac corrigé](#E3C)
 
 ## 👋 [devoir](#devoir)
 
@@ -29,18 +29,18 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### Chapitre 0 : les pourcentages
 * #### [ex proportion](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre0.pdf)
 * #### [ex taux evolution et indice](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre0_2.pdf)
-* #### [ex complémentaitres](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre0.pdf)
+* #### [ex complémentaitre](http://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre0.pdf)
 * ### Chapitre 1 : fonctions
-* #### [ex fonctions](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre1.pdf)
-* #### [ex complémentaitres](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre1.pdf)
+* #### [ex fonction](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre1.pdf)
+* #### [ex complémentaitre](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre1.pdf)
 * ### Chapitre 2 - tableau croisé - probabilité contionnelle
 * #### [ex tableaux](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2.pdf)
 * #### [ex probabilités](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre2bis.pdf)
-* #### [ex tableaux probabilités supplémentaires](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
+* #### [ex tableaux probabilité supplémentaire](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
 * ### Chapitre 3 - suite
 * #### [suite 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre3.pdf)
 * #### [suite 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre3.pdf)
-* #### [ex tableaux probabilités supplémentaires](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
+* #### [ex tableaux probabilité supplémentaire](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre2.pdf)
 * ### Chapitre 4 - polynôme du second degré
 * #### [polynôme du second degré 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/mathGM_chapitre4.pdf)
 * #### [polynôme du second degré 2](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/FT_mathGM_chapitre4.pdf)
