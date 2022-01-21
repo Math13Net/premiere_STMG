@@ -94,7 +94,8 @@ Voici qq fichiers pour des éléments de cours de la classe de première STMG :
 * ### [devoir 1](https://www.mathgm.fr/images/documents/1STMG/Cours_exercices/fct_generalites2.pdf)
 * ### [devoir 2](https://github.com/Math13Net/premiere_STMG/blob/main/2021_premiere_stmg_ds2.pdf)
 * ### [devoir 3](https://github.com/Math13Net/premiere_STMG/blob/main/2021_premiere_stmg_ds3.pdf)
-* ### [devoir 4](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
+* ### [devoir 4](https://github.com/Math13Net/premiere_STMG/blob/main/2021_premiere_stmg_ds4.pdf)
+* ### [devoir 5](http://fr.shaarr.com/app/i-love-you/7509/i-love-coucou)
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## Progression , matériels ... en première STMG au Lycée Jean Monnet - 2021/2022
